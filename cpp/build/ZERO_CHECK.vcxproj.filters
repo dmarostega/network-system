@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\dolit\Projects\multiplataforma\s4-clone\cpp\build\CMakeFiles\43eee094b9df8f2b6aa2b55d7c15a4f0\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\CMakeFiles\8df47c755e9c2d41dc1cd3c2c49618f3\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{FB8D7A0E-E2E4-30EE-AF71-B83C12EC6021}</UniqueIdentifier>
+      <UniqueIdentifier>{DE8F5981-0AAD-3498-AB7A-F1609E75F4E4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

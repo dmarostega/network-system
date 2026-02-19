@@ -10,7 +10,7 @@ function ping() {
   let ip = $("#ip").val();
   let reponseTarget = $("#response-target");
     console.log("IP a enviar:", ip);  // ✅ ver no console do navegador
-  $.post("retrieve.php", {
+  $.post("retrieve-ping-json.php", {
     action: "ping",
     target: ip
   }, function(resp) {
@@ -18,6 +18,17 @@ function ping() {
 
         reponseTarget.html('');
         reponseTarget.html(resp);
+  }, 'json')
+  .done(function() {
+    alert( "second success" );
+  })
+  .fail(function(response) {
+    console.log("Error> " , response);
+    alert( "error with response", response );
+        alert("Falha na requisição");
+  })
+  .always(function() {
+    alert( "finished" );
   });
 }
 </script>

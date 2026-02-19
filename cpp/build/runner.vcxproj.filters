@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\dolit\Projects\multiplataforma\s4-clone\cpp\src\main.cpp">
+    <ClCompile Include="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\dolit\Projects\multiplataforma\s4-clone\cpp\src\runner.cpp">
+    <ClCompile Include="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\src\runner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\dolit\Projects\multiplataforma\s4-clone\cpp\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{E37E25DF-8783-3D2C-BBFA-41B8B643DC91}</UniqueIdentifier>
+      <UniqueIdentifier>{186BF4F5-65CB-3FDC-8422-E7589DBCBD8C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

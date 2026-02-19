@@ -12,6 +12,11 @@ int main(int argc, char* argv[]) {
     std::string action = argv[1];
     std::string target = argv[2];
 
+    std::cout << "Runner started\n";
+    std::cout << "Action: " << action << " Target: " << target << "\n";
+
     runCommand(action, target);
+
+    std::cout << "Finally main\n";
     return 0;
 }

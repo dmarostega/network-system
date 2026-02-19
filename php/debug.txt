@@ -1,0 +1,153 @@
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=12ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=12ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 11ms, M ximo = 12ms, M‚dia = 11ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=12ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 11ms, M ximo = 12ms, M‚dia = 11ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 10ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 11ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 10ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 11ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 10ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
+CMD="C:\Users\dolit\Projects\multiplataforma\network-system\cpp\build\Debug\runner.exe" ping "8.8.8.8" 2>&1
+OUTPUT=Runner started
+Action: ping Target: 8.8.8.8
+Command to execute: C:\Windows\System32\ping.exe -n 4 8.8.8.8
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=116
+Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=116
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 10ms, M ximo = 11ms, M‚dia = 10ms
+Finally main
+
+Action=ping Target=8.8.8.8
