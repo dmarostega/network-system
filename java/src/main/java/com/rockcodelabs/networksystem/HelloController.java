@@ -1,4 +1,4 @@
-package com.sistema.s4;
+package com.rockcodelabs.networksystem;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
